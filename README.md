@@ -55,6 +55,8 @@ Cycle detection in linked lists has several practical applications:
 
 7. **Graph Algorithms**: Cycle detection is a fundamental operation in many graph algorithms, such as finding strongly connected components.
 
+Input Format
+The code stub reads from stdin and passes the appropriate argument to your function. The custom test cases format is not described due to its complexity.
 
 ## Constraints
 
